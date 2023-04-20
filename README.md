@@ -1,6 +1,3 @@
-# BuergerSolarBerater Loerrach
+# BuergerSolarBerater Loerrach Websie Definition
 
-Hallo Joerg, hier ist unsere webseite.
-
-- [Link1](/link1.md)
-- [Link2](/link2)
+Hallo Joerg, hier ist die Definition unserer Webseite.
